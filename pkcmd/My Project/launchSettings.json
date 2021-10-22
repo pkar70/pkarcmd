@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "pkcmd": {
+      "commandName": "Project",
+      "commandLineArgs": "ballots debug toasts"
+    }
+  }
+}
